@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Noted known limitation in docs
 - Cross-checked behaviour against spec
+
+## 2026-03-30
+- Consolidated duplicate helper functions
+- Wrote notes on upcoming feature design
+- Refactored module structure for clarity
