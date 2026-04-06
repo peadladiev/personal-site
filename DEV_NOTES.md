@@ -28,3 +28,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Fixed off-by-one error in loop
 - Refactored module structure for clarity
+
+## 2026-04-06
+- Consolidated duplicate helper functions
